@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shehansn
-- 👀 I’m interested in Web developing ,Software Developing
-- 🌱 I’m currently learning on React
-- 💞️ I’m looking to collaborate on React Projects
+- 👀 I’m interested in FullStack Web development and software development.
+- 🌱 I’m currently learning on Angular and SpringBoot.
+- 💞️ I’m looking to collaborate on Angular Projects.
 - 📫 How to reach me shehanarachchigesn@gmail.com
 
 <!---
